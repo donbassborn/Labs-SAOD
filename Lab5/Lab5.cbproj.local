@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019.12.17 14:07:42.036.cbproj,C:\Users\teremok\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\teremok\Documents\RAD Studio\Projects\Lab5.cbproj</Transaction>
+    <Transaction>2019.12.17 14:42:51.465.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\File1.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\Main.cpp</Transaction>
+    <Transaction>2019.12.17 14:45:21.151.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\HashTable.cpp</Transaction>
+    <Transaction>2019.12.17 14:45:21.151.h,C:\Users\teremok\Documents\RAD Studio\Projects\Unit1.h=C:\Users\teremok\Documents\RAD Studio\Projects\HashTable.h</Transaction>
+    <Transaction>2019.12.17 14:46:33.386.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\HashTable.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\Lab5\HashTable.cpp</Transaction>
+    <Transaction>2019.12.17 14:46:33.386.h,C:\Users\teremok\Documents\RAD Studio\Projects\HashTable.h=C:\Users\teremok\Documents\RAD Studio\Projects\Lab5\HashTable.h</Transaction>
+    <Transaction>2019.12.17 14:46:36.811.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\Main.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\Lab5\Main.cpp</Transaction>
+    <Transaction>2019.12.17 14:46:39.049.cbproj,C:\Users\teremok\Documents\RAD Studio\Projects\Lab5.cbproj=C:\Users\teremok\Documents\RAD Studio\Projects\Lab5\Lab5.cbproj</Transaction>
+    <Transaction>2019.12.17 15:04:24.381.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\Lab5\Unit1.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\Lab5\NodeList.cpp</Transaction>
+    <Transaction>2019.12.17 15:04:24.381.h,C:\Users\teremok\Documents\RAD Studio\Projects\Lab5\Unit1.h=C:\Users\teremok\Documents\RAD Studio\Projects\Lab5\NodeList.h</Transaction>
+  </Transactions>
+</BorlandProject>

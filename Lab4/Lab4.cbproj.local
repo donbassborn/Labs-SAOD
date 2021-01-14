@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019.12.01 21:51:17.190.cbproj,C:\Users\teremok\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\teremok\Documents\RAD Studio\Projects\Lab4.cbproj</Transaction>
+    <Transaction>2019.12.01 21:51:26.751.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\File1.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\Main.cpp</Transaction>
+    <Transaction>2019.12.01 21:51:52.258.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\BinaryTree.cpp</Transaction>
+    <Transaction>2019.12.01 21:51:52.258.h,C:\Users\teremok\Documents\RAD Studio\Projects\Unit1.h=C:\Users\teremok\Documents\RAD Studio\Projects\BinaryTree.h</Transaction>
+    <Transaction>2019.12.01 21:51:59.100.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\BinaryTree.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\BinaryTreeNode.cpp</Transaction>
+    <Transaction>2019.12.01 21:51:59.100.h,C:\Users\teremok\Documents\RAD Studio\Projects\BinaryTree.h=C:\Users\teremok\Documents\RAD Studio\Projects\BinaryTreeNode.h</Transaction>
+    <Transaction>2019.12.01 22:55:19.106.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\BinaryTree.cpp</Transaction>
+    <Transaction>2019.12.01 22:55:19.106.h,C:\Users\teremok\Documents\RAD Studio\Projects\Unit1.h=C:\Users\teremok\Documents\RAD Studio\Projects\BinaryTree.h</Transaction>
+    <Transaction>2019.12.01 22:56:14.545.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\BinaryTree.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\Lab4\BinaryTree.cpp</Transaction>
+    <Transaction>2019.12.01 22:56:14.545.h,C:\Users\teremok\Documents\RAD Studio\Projects\BinaryTree.h=C:\Users\teremok\Documents\RAD Studio\Projects\Lab4\BinaryTree.h</Transaction>
+    <Transaction>2019.12.01 22:56:50.239.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\Main.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\Lab4\Main.cpp</Transaction>
+    <Transaction>2019.12.01 22:56:57.051.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\BinaryTreeNode.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\Lab4\BinaryTreeNode.cpp</Transaction>
+    <Transaction>2019.12.01 22:56:57.051.h,C:\Users\teremok\Documents\RAD Studio\Projects\BinaryTreeNode.h=C:\Users\teremok\Documents\RAD Studio\Projects\Lab4\BinaryTreeNode.h</Transaction>
+    <Transaction>2019.12.02 01:26:06.719.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\Lab4\PhoneBook.cpp</Transaction>
+    <Transaction>2019.12.02 01:26:06.719.h,C:\Users\teremok\Documents\RAD Studio\Projects\Unit1.h=C:\Users\teremok\Documents\RAD Studio\Projects\Lab4\PhoneBook.h</Transaction>
+    <Transaction>2019.12.02 01:30:49.588.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\Lab4\PhoneBook.cpp=</Transaction>
+    <Transaction>2019.12.02 02:58:16.405.cbproj,C:\Users\teremok\Documents\RAD Studio\Projects\Lab4.cbproj=C:\Users\teremok\Documents\RAD Studio\Projects\Lab4\Lab4.cbproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="BinaryTree.cpp"/>
+    <File Path="BinaryTree.cpp"/>
+    <File Path="BinaryTree.h"/>
+    <File Path="BinaryTreeNode.cpp"/>
+    <File Path="BinaryTreeNode.cpp"/>
+    <File Path="BinaryTreeNode.h"/>
+    <File Path="Main.cpp"/>
+  </ProjectSortOrder>
+</BorlandProject>
