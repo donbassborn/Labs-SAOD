@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019.11.05 16:53:37.285.cbproj,C:\Users\teremok\Documents\RAD Studio\Projects\Project2.cbproj=C:\Users\teremok\Documents\RAD Studio\Projects\Lab2.cbproj</Transaction>
+    <Transaction>2019.11.05 16:54:05.491.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\ArrayStack.cpp</Transaction>
+    <Transaction>2019.11.05 16:54:05.491.h,C:\Users\teremok\Documents\RAD Studio\Projects\Unit1.h=C:\Users\teremok\Documents\RAD Studio\Projects\ArrayStack.h</Transaction>
+    <Transaction>2019.11.05 16:54:28.482.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\ListStack.cpp</Transaction>
+    <Transaction>2019.11.05 16:54:28.482.h,C:\Users\teremok\Documents\RAD Studio\Projects\Unit1.h=C:\Users\teremok\Documents\RAD Studio\Projects\ListStack.h</Transaction>
+    <Transaction>2019.11.05 16:54:45.909.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\File1.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\Main.cpp</Transaction>
+    <Transaction>2019.11.05 16:54:58.111.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\ListStack.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\Lab2\ListStack.cpp</Transaction>
+    <Transaction>2019.11.05 16:54:58.111.h,C:\Users\teremok\Documents\RAD Studio\Projects\ListStack.h=C:\Users\teremok\Documents\RAD Studio\Projects\Lab2\ListStack.h</Transaction>
+    <Transaction>2019.11.05 16:54:59.296.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\ArrayStack.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\Lab2\ArrayStack.cpp</Transaction>
+    <Transaction>2019.11.05 16:54:59.296.h,C:\Users\teremok\Documents\RAD Studio\Projects\ArrayStack.h=C:\Users\teremok\Documents\RAD Studio\Projects\Lab2\ArrayStack.h</Transaction>
+    <Transaction>2019.11.05 16:55:00.640.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\Main.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\Lab2\Main.cpp</Transaction>
+    <Transaction>2019.11.05 16:55:02.299.cbproj,C:\Users\teremok\Documents\RAD Studio\Projects\Lab2.cbproj=C:\Users\teremok\Documents\RAD Studio\Projects\Lab2\Lab2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

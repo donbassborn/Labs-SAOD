@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019.11.05 19:53:59.480.cbproj,C:\Users\teremok\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\teremok\Documents\RAD Studio\Projects\Lab3.cbproj</Transaction>
+    <Transaction>2019.11.05 19:54:06.271.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\File1.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\Main.cpp</Transaction>
+    <Transaction>2019.11.05 19:54:15.051.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\Main.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\Lab3\Main.cpp</Transaction>
+    <Transaction>2019.11.05 19:54:18.281.cbproj,C:\Users\teremok\Documents\RAD Studio\Projects\Lab3.cbproj=C:\Users\teremok\Documents\RAD Studio\Projects\Lab3\Lab3.cbproj</Transaction>
+    <Transaction>2019.11.05 21:12:00.166.cpp,C:\Users\teremok\Documents\RAD Studio\Projects\Lab3\Unit1.cpp=C:\Users\teremok\Documents\RAD Studio\Projects\Lab3\SimpleList.cpp</Transaction>
+    <Transaction>2019.11.05 21:12:00.166.h,C:\Users\teremok\Documents\RAD Studio\Projects\Lab3\Unit1.h=C:\Users\teremok\Documents\RAD Studio\Projects\Lab3\SimpleList.h</Transaction>
+  </Transactions>
+</BorlandProject>
