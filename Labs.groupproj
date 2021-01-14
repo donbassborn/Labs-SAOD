@@ -1,0 +1,84 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{8C4391E7-3C8A-4256-8C3F-26532F27F595}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="Lab1\Lab1.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="Lab2\Lab2.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="Lab3\Lab3.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="Lab4\Lab4.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="Lab5\Lab5.cbproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="Lab1">
+			<MSBuild Projects="Lab1\Lab1.cbproj"/>
+		</Target>
+		<Target Name="Lab1:Clean">
+			<MSBuild Targets="Clean" Projects="Lab1\Lab1.cbproj"/>
+		</Target>
+		<Target Name="Lab1:Make">
+			<MSBuild Targets="Make" Projects="Lab1\Lab1.cbproj"/>
+		</Target>
+		<Target Name="Lab2">
+			<MSBuild Projects="Lab2\Lab2.cbproj"/>
+		</Target>
+		<Target Name="Lab2:Clean">
+			<MSBuild Targets="Clean" Projects="Lab2\Lab2.cbproj"/>
+		</Target>
+		<Target Name="Lab2:Make">
+			<MSBuild Targets="Make" Projects="Lab2\Lab2.cbproj"/>
+		</Target>
+		<Target Name="Lab3">
+			<MSBuild Projects="Lab3\Lab3.cbproj"/>
+		</Target>
+		<Target Name="Lab3:Clean">
+			<MSBuild Targets="Clean" Projects="Lab3\Lab3.cbproj"/>
+		</Target>
+		<Target Name="Lab3:Make">
+			<MSBuild Targets="Make" Projects="Lab3\Lab3.cbproj"/>
+		</Target>
+		<Target Name="Lab4">
+			<MSBuild Projects="Lab4\Lab4.cbproj"/>
+		</Target>
+		<Target Name="Lab4:Clean">
+			<MSBuild Targets="Clean" Projects="Lab4\Lab4.cbproj"/>
+		</Target>
+		<Target Name="Lab4:Make">
+			<MSBuild Targets="Make" Projects="Lab4\Lab4.cbproj"/>
+		</Target>
+		<Target Name="Lab5">
+			<MSBuild Projects="Lab5\Lab5.cbproj"/>
+		</Target>
+		<Target Name="Lab5:Clean">
+			<MSBuild Targets="Clean" Projects="Lab5\Lab5.cbproj"/>
+		</Target>
+		<Target Name="Lab5:Make">
+			<MSBuild Targets="Make" Projects="Lab5\Lab5.cbproj"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="Lab1;Lab2;Lab3;Lab4;Lab5"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="Lab1:Clean;Lab2:Clean;Lab3:Clean;Lab4:Clean;Lab5:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="Lab1:Make;Lab2:Make;Lab3:Make;Lab4:Make;Lab5:Make"/>
+		</Target>
+		<Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+	</Project>
